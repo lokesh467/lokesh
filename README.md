@@ -1,1 +1,2 @@
-# lokesh
+# lokes
+# useradd -m kk
